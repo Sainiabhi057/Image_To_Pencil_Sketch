@@ -1,5 +1,5 @@
 # Image_To_Pencil_Sketch
-### This is Image to Pencil Sketch conversion using python Project under LetsGrowMore Internship in January 2023
+### This is Image to Pencil Sketch conversion using python Project.
 #### This project is created using tools:
 - Jupyter Notebook
 #### Language Used:
